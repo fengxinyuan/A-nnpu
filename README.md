@@ -55,8 +55,8 @@
 
 1.  **克隆仓库 (如果您的代码已在 GitHub 上):**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/fengxinyuan/A-nnpu.git
+    cd A-nnpu.git
     ```
 
 2.  **创建并激活虚拟环境 (推荐):**
